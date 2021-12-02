@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Baseline" Version="3.2.1" />
+    <PackageReference Include="DryIoc.dll" Version="4.8.4" />
+    <PackageReference Include="LamarCodeGeneration" Version="3.2.2" />
+    <PackageReference Include="LanguageExt.Core" Version="4.0.3" />
+    <PackageReference Include="NPOI" Version="2.5.5" />
+    <PackageReference Include="WebGrease" Version="1.6.0" />
+  </ItemGroup>
+
+</Project>
